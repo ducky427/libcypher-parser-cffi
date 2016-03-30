@@ -1,7 +1,7 @@
 
 This repo is a POC of using Chris Leishman's [`libcypher-parser`](https://github.com/cleishm/libcypher-parser) library from Python using CFFI.
 
-**WARNING**: This work is extremely experimental and is a hack.
+**WARNING**: I am not a C expert and my solution is most definitely a hack.
 
 ![I have no idea what I am doing](http://img1.rnkr-static.com/user_node_img/50013/1000240969/870/doing-science-photo-u1.jpg)
 
